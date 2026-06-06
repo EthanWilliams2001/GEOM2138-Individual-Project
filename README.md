@@ -12,3 +12,4 @@ This is a link to GEE code editor - https://code.earthengine.google.com/47e02eac
 ## UPDATES!
 Updates have been made to the app to include EVI, NDMI, NBR and LAI as well as the original NDVI calculation. In addition to this, the app now has a link to show the user where the boundary data was taken from and a proper date selector to minimise human error when entering dates on the side panel. 
 This is a link to the UPDATED app - https://ee-ethanwilliams575.projects.earthengine.app/view/split-panel-comparison-app-for-the-great-otway-region
+This is a link to teh updated code editor - https://code.earthengine.google.com/32f382116d3ea7039bcf0d1292141652
